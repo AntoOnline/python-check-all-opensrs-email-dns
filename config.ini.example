@@ -1,0 +1,9 @@
+[emails]
+selector = dkim1
+
+email_accounts = user1@example.com
+    user2@example.com
+
+[resolver]
+nameservers = 1.1.1.1,1.0.0.1
+timeout = 10.0
