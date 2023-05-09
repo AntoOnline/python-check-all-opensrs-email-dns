@@ -1,6 +1,6 @@
-# DNS Checker
+# Email Config Checker
 
-DNS Checker is a Python script that checks the DNS records for a list of email accounts. The script checks the MX record, SPF record, and DKIM record for each email account and tests the SMTP connection to the MX hostname.
+Email Config Checker is a Python script that checks the DNS records for a list of email accounts. The script checks the MX record, SPF record, and DKIM record for each email account and tests the SMTP connection to the MX hostname.
 
 ## Requirements
 
